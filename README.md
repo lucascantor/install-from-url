@@ -2,6 +2,8 @@
 
 Install Vendor-Hosted Software via cURL
 
+Archived in favor of [Installomator](https://github.com/Installomator/Installomator)
+
 ## Contributing workflow
 
 Here’s how we suggest you go about proposing a change to this project:
